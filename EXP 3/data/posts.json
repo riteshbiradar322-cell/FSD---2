@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Post Updated By Editor",
+    "content": "The editor successfully modified this post.",
+    "author": "Admin One",
+    "createdAt": "2026-01-10T09:00:00.000Z",
+    "updatedAt": "2026-08-03T10:30:41.853Z"
+  },
+  {
+    "id": 2,
+    "title": "Understanding JWT Tokens",
+    "content": "JWTs consist of a header, payload, and signature, and enable stateless authentication.",
+    "author": "Editor One",
+    "createdAt": "2026-01-11T10:30:00.000Z",
+    "updatedAt": "2026-01-11T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Role-Based Access Control Basics",
+    "content": "RBAC restricts system access based on the roles assigned to individual users.",
+    "author": "Admin Two",
+    "createdAt": "2026-01-12T14:15:00.000Z",
+    "updatedAt": "2026-01-12T14:15:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Securing REST APIs",
+    "content": "Combining authentication middleware with role checks protects sensitive endpoints.",
+    "author": "Editor Two",
+    "createdAt": "2026-01-13T08:45:00.000Z",
+    "updatedAt": "2026-01-13T08:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Viewer Access Notes",
+    "content": "Viewers can read all posts but cannot create, edit, or delete them.",
+    "author": "Admin One",
+    "createdAt": "2026-01-14T16:00:00.000Z",
+    "updatedAt": "2026-01-14T16:00:00.000Z"
+  },
+  {
+    "id": 6,
+    "title": "Admin Test Post",
+    "content": "This post was created by the Admin user.",
+    "author": "admin1",
+    "createdAt": "2026-08-03T10:29:26.820Z",
+    "updatedAt": "2026-08-03T10:29:26.820Z"
+  }
+]

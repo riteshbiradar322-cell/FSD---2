@@ -1,0 +1,194 @@
+[
+  {
+    "id": 1,
+    "name": "Admin One",
+    "username": "admin1",
+    "email": "admin1@example.com",
+    "password": "$2b$12$I7rqWLshmhWnOXyQILR04.reqXDtiUVE5g3rUVB.6SXfua94jlF.S",
+    "role": "ADMIN"
+  },
+  {
+    "id": 2,
+    "name": "Admin Two",
+    "username": "admin2",
+    "email": "admin2@example.com",
+    "password": "$2b$12$jMbEzvg/bkcDhF4ITVaFFeQnCxZXPvUHyxnSVh5oE0RhhZlj2fh4O",
+    "role": "ADMIN"
+  },
+  {
+    "id": 3,
+    "name": "Admin Three",
+    "username": "admin3",
+    "email": "admin3@example.com",
+    "password": "$2b$12$u6pYy9JY6bWPPWwO884f.usI6yYo65U2L5/.R9P.5iOxVfNMBby6.",
+    "role": "ADMIN"
+  },
+  {
+    "id": 4,
+    "name": "Admin Four",
+    "username": "admin4",
+    "email": "admin4@example.com",
+    "password": "$2b$12$yeF4iF77HFGmSKsyoHgW6ehXZCzITPvCHIuuV9THKh1GvqAQARrSi",
+    "role": "ADMIN"
+  },
+  {
+    "id": 5,
+    "name": "Admin Five",
+    "username": "admin5",
+    "email": "admin5@example.com",
+    "password": "$2b$12$iQsdd7LRIsVz.IYwjmqEOO4hIpSW5Lok72/.QktkgBcFwaguQL.oG",
+    "role": "ADMIN"
+  },
+  {
+    "id": 6,
+    "name": "Admin Six",
+    "username": "admin6",
+    "email": "admin6@example.com",
+    "password": "$2b$12$msXdtNm2w9vGFMsdTndBSuD1mvmJupKE2foNJ6zjCxqI3ng6rR0Tu",
+    "role": "ADMIN"
+  },
+  {
+    "id": 7,
+    "name": "Editor One",
+    "username": "editor1",
+    "email": "editor1@example.com",
+    "password": "$2b$12$KUk.qC3e6/RXqkQRUR530uagoALBQ/jLRXSs.JlHz/utgR4d1J1n6",
+    "role": "EDITOR"
+  },
+  {
+    "id": 8,
+    "name": "Editor Two",
+    "username": "editor2",
+    "email": "editor2@example.com",
+    "password": "$2b$12$EhOkrHWuvb5PvJxoM1/0uuAALKVLpUA4WVuZOUttz6UYVPqDjhhHS",
+    "role": "EDITOR"
+  },
+  {
+    "id": 9,
+    "name": "Editor Three",
+    "username": "editor3",
+    "email": "editor3@example.com",
+    "password": "$2b$12$J2h476vllVyAaXzGh2BteuGlEgkJMQraNyA4RsGHwQS44/LQ9XALO",
+    "role": "EDITOR"
+  },
+  {
+    "id": 10,
+    "name": "Editor Four",
+    "username": "editor4",
+    "email": "editor4@example.com",
+    "password": "$2b$12$GXhfwxp8KjNchdszK7g6i.PcLC4Us5N09RKT2.z/TzMa.Ou4xmk96",
+    "role": "EDITOR"
+  },
+  {
+    "id": 11,
+    "name": "Editor Five",
+    "username": "editor5",
+    "email": "editor5@example.com",
+    "password": "$2b$12$WI2RAICL3McMq2AFirLNTOkT8LF7hnajEAQfwJHRNnA2Q39JwHtXm",
+    "role": "EDITOR"
+  },
+  {
+    "id": 12,
+    "name": "Editor Six",
+    "username": "editor6",
+    "email": "editor6@example.com",
+    "password": "$2b$12$.IZjaEgoROMIcblqV8bJaeBrolGLhfm6Z2.u9PWrgmNGC6BrVNIKm",
+    "role": "EDITOR"
+  },
+  {
+    "id": 13,
+    "name": "Editor Seven",
+    "username": "editor7",
+    "email": "editor7@example.com",
+    "password": "$2b$12$xo9p5iRgFb4vtw1/OdFHlO.XGw8vrlWJktpnN6qCWTeHvPNRgyRoy",
+    "role": "EDITOR"
+  },
+  {
+    "id": 14,
+    "name": "Editor Eight",
+    "username": "editor8",
+    "email": "editor8@example.com",
+    "password": "$2b$12$2ybY1NvzrRX9NHojnZRhQe4TUw7uSF/JmAHsWkLDuYZXUU/TPujam",
+    "role": "EDITOR"
+  },
+  {
+    "id": 15,
+    "name": "Viewer One",
+    "username": "viewer1",
+    "email": "viewer1@example.com",
+    "password": "$2b$12$5X2dbdjL7V.i8VED6lKIHO9vVb1PohXKBDxazzbh7Ejvm4Nqm7pqi",
+    "role": "VIEWER"
+  },
+  {
+    "id": 16,
+    "name": "Viewer Two",
+    "username": "viewer2",
+    "email": "viewer2@example.com",
+    "password": "$2b$12$bfCjxgHQMLzIRBQKQcvBQOYkmhZI.X/sW0WTKMszF3y8elUcz34LC",
+    "role": "VIEWER"
+  },
+  {
+    "id": 17,
+    "name": "Viewer Three",
+    "username": "viewer3",
+    "email": "viewer3@example.com",
+    "password": "$2b$12$zrTVfRuW4PiQVwi2rpUG..ZxXFgZi6Oviui2LC4nGY6EWb.r72PvW",
+    "role": "VIEWER"
+  },
+  {
+    "id": 18,
+    "name": "Viewer Four",
+    "username": "viewer4",
+    "email": "viewer4@example.com",
+    "password": "$2b$12$ch.feBixt82ceuonM9CTK.hhqu4wpimZU.FY.v5L8h6.MHRxMNz72",
+    "role": "VIEWER"
+  },
+  {
+    "id": 19,
+    "name": "Viewer Five",
+    "username": "viewer5",
+    "email": "viewer5@example.com",
+    "password": "$2b$12$lF7OF19.5E0RnijRnWfxA.R3V964pH9qqTvImPfAlACCkV7Nj3ePO",
+    "role": "VIEWER"
+  },
+  {
+    "id": 20,
+    "name": "Viewer Six",
+    "username": "viewer6",
+    "email": "viewer6@example.com",
+    "password": "$2b$12$fhBxc.XPmezMxw5LhZJb8ukwdZhGXb8ENi2FvyI.sENlLdoK1CivW",
+    "role": "VIEWER"
+  },
+  {
+    "id": 21,
+    "name": "Viewer Seven",
+    "username": "viewer7",
+    "email": "viewer7@example.com",
+    "password": "$2b$12$a1WZi8BxdbOEsBkk9K4LkuqrFfwch7j5zCaQkjp0dfiuGDUcVGEMC",
+    "role": "VIEWER"
+  },
+  {
+    "id": 22,
+    "name": "Viewer Eight",
+    "username": "viewer8",
+    "email": "viewer8@example.com",
+    "password": "$2b$12$kbm4JGt4KMWSJVW5jFzeMOfykUiIIKCr0XlPkqQ17NN1HnNgFTybq",
+    "role": "VIEWER"
+  },
+  {
+    "id": 23,
+    "name": "Viewer Nine",
+    "username": "viewer9",
+    "email": "viewer9@example.com",
+    "password": "$2b$12$ukMLpiY0SbliDvpPT8vVXOj4K97SkeNxNpOhKqgDOfqxFVVvOCngi",
+    "role": "VIEWER"
+  },
+  {
+    "id": 24,
+    "name": "Viewer Ten",
+    "username": "viewer10",
+    "email": "viewer10@example.com",
+    "password": "$2b$12$ag4GfHwTHiAdQ7zZBmq7s.uD3UjNxCTsit2FdHarziX.I61VjJtrm",
+    "role": "VIEWER"
+  }
+]
