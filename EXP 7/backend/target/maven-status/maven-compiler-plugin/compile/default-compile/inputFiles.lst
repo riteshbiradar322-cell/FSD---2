@@ -1,0 +1,16 @@
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\config\SecurityConfig.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\repository\TaskRepository.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\security\JwtAuthFilter.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\dto\TaskRequest.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\util\AesUtil.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\security\JwtUtils.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\BackendApplication.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\dto\LoginRequest.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\dto\JwtResponse.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\entity\User.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\controller\TaskController.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\config\DataInitializer.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\security\UserDetailsServiceImpl.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\controller\AuthController.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\repository\UserRepository.java
+C:\Users\rites\OneDrive\Desktop\EXP 7\backend\src\main\java\com\example\backend\entity\Task.java
